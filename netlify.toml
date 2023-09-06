@@ -2,7 +2,7 @@
 	command = ""
 	publish = ""
 
-# Rewrite a path
+# Redirect to maintenance page
 [[redirects]]
 from = "/*"
 to = "/index.html"
